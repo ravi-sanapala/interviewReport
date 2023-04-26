@@ -1,0 +1,33 @@
+Skill: HTML
+Correct: 100.0%
+Wrong: 0.0%
+--------******----------
+Skill: ReactJS
+Correct: 100.0%
+Wrong: 0.0%
+--------******----------
+Skill: CSS
+Correct: 100.0%
+Wrong: 0.0%
+--------******----------
+Skill: JavaScript
+Correct: 100.0%
+Wrong: 0.0%
+--------******----------
+Skill: TypeScript
+Correct: 100.0%
+Wrong: 0.0%
+--------******----------
+Skill: Generic
+Correct: 100.0%
+Wrong: 0.0%
+--------******----------
+Ravi sanapala interviewed Ganesh
+Start time: 2023-04-26 13:59:09.415021
+End time: 2023-04-26 13:59:38.030273
+Interview duration: 0:00:28.620000
+------------------
+===================
+Candidate can be considered for further rounds: Y
+Summary of candidate performance: n
+====================
