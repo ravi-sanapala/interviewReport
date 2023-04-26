@@ -8,6 +8,7 @@ This script is designed to help interviewers generate a report on a candidate's 
 
    ```
    pip install pandas 
+   pip install openpyxl
    ```
 
 2. Create an Excel file with the questions for each skill. The file should have one sheet for each skill, and each sheet should have a column called "Question" with the questions to ask.
